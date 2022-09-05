@@ -20,4 +20,10 @@
 19-AZ - Replace all characters A and c from input to Z and e respectively
 20-hiago -  removes all letters c and C from input
 21-reverse - reverse its input
-22-users_and_homes - displays all users and their home directories, sorted by users 
+22-users_and_homes - displays all users and their home directories, sorted by users
+100-empty_casks - Write a command that finds all empty files and directories in the current directory and all sub-directories.
+
+    Only the names of the files and directories should be displayed (not the entire path)
+    Hidden files should be listed
+    One file name per line
+    The listing should end with a new line 
